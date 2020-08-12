@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "My 2nd commit..."
 ---
 Your text
 Use the left arrow to go back!
